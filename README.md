@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwizzor%2Fhomeassist.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwizzor%2Fhomeassist?ref=badge_shield)
+
 HomeAssist
 ==========
 HomeAsisst is a clean & colourful Home-Assistant dashboard for Android.
@@ -54,3 +56,6 @@ License
 [1]: https://www.paypal.me/axzae/5
 [2]: http://webchat.freenode.net/?channels=homeassist
 [3]: https://trello.com/b/C0YnMv3L/homeassist
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwizzor%2Fhomeassist.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwizzor%2Fhomeassist?ref=badge_large)
